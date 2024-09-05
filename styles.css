@@ -1,0 +1,13 @@
+#check-btn {
+    height: 30px;
+    width: 70px;
+    cursor:pointer;
+    background-color: yellow;
+    padding: 5px;
+    margin: 10px;
+    }
+    
+    input {
+      height: 30px;
+      width: 300px;
+    }
